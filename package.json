@@ -1,0 +1,15 @@
+{
+  "name": "react-native-module-boilerplate",
+  "version": "0.1.0",
+  "description": "React Native Module Boilerplate",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "peerDependencies": {
+    "react": "15.4.1",
+    "react-native": "0.46.4"
+  },
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  }
+}
